@@ -11,7 +11,7 @@
 this is a fork, was forked by me, atif5:
 you can learn about forking [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
-I wanted to get you acquainted with git and github so I forked your repo and created a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+I wanted to get you acquainted with git and github so I forked your repo and created a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
 You can [merge](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request) this with your og repo or discard it. Welcome to github!
 
