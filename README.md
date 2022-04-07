@@ -8,8 +8,9 @@
 1. add my mail address
 
 ## What is this?
-this is a fork, was forked by me, atif5:
-you can learn about forking [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+This is a fork, was forked by me, atif5.
+Basically a clone of your repo with minor changes committed by me.
+you can learn about forking [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 
 I wanted to get you acquainted with git and github so I forked your repo and created a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
