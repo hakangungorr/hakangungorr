@@ -4,7 +4,7 @@
 - :revolving_hearts: I’m looking to collaborate with cs students or software engineers for work. 
 - :mailbox: How to reach me ...
 
-##### todo 
+### todo 
 1. add my mail address
 
 ## What is this?
