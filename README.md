@@ -4,7 +4,8 @@
 - :revolving_hearts: I’m looking to collaborate with cs students or software engineers for work. 
 - :mailbox: How to reach me ...
 
-todo: add my mail address
+##### todo 
+1. add my mail address
 
 ## What is this?
 this is a fork, was forked by me, atif5:
