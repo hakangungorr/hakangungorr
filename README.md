@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hakangungorr
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html-css
+- 🌱 I’m currently learning JAVASCRIPT
 - 💞️ I’m looking to collaborate on cs students or software engineer to work. 
 - 📫 How to reach me ...
 
