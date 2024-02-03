@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hakangungorr
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JAVASCRIPT
-- 💞️ I’m looking to collaborate on cs students or software engineer to work. 
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to improve my self on frontend development
 - 📫 How to reach me ...
 
 <!---
